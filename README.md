@@ -7,33 +7,33 @@ Repositório com os arquivos utilizados no treinamento Matlab 2017
 1.	Introdução a interface do Matlab e seus recursos
 2.	Operadores
 3.	Tipos de dados
-  a.	Integer
-  b.	Float
-  c.	Double
-  d.	Cell
+  a.	Integer<br>
+  b.	Float<br>
+  c.	Double<br>
+  d.	Cell<br>
 4.	Vetores e Matrizes
-  a.	Funcionamento
-  b.	Operações com vetores
-  c.	Vetorização
-  d.	Problemas de Vetorização
-  e.	Curiosidades (Matrizes sparsas e sua visualização na memória)
+  a.	Funcionamento<br>
+  b.	Operações com vetores<br>
+  c.	Vetorização<br>
+  d.	Problemas de Vetorização<br>
+  e.	Curiosidades (Matrizes sparsas e sua visualização na memória)<br>
 5.	Simbólicos
-  a.	O que são?
-  b.	Funções Simbólicas
+  a.	O que são?<br>
+  b.	Funções Simbólicas<br>
 6.	Scripts
-  a.	Funcionamento
-  b.	Documentação
-  c.	Helpers
+  a.	Funcionamento<br>
+  b.	Documentação<br>
+  c.	Helpers<br>
 7.	Funções
-  a.	Funções com output simples
-  b.	Funções com múltiplos inputs
-  c.	Funções com inputs dinâmicos
-  d.	Funções com outputs dinâmicos
+  a.	Funções com output simples<br>
+  b.	Funções com múltiplos inputs<br>
+  c.	Funções com inputs dinâmicos<br>
+  d.	Funções com outputs dinâmicos<br>
 8.	Orientação a objetos com Matlab (Opção 1)
 9.	Criação de Interfaces Gráficas com Matlab (Opção 2)
-  a.	GUIDE
-  b.	APP DESIGNER
+  a.	GUIDE<br>
+  b.	APP DESIGNER<br>
 
 
-**Projetos e Exemplos **
+**Projetos e Exemplos **<br>
 Em breve
